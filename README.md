@@ -35,6 +35,62 @@ Students can register, log in, attempt exams within the scheduled time, and view
 
 ---
 
+---
+
+# 📸 Project Screenshots
+
+## 🏠 Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+## 👨‍🎓 Student Login
+
+![Student Login](screenshots/student_login.png)
+
+---
+
+## 👨‍💼 Admin Login
+
+![Admin Login](screenshots/admin_login.png)
+
+---
+
+## 👨‍🎓 Student Dashboard
+
+![Student Dashboard](screenshots/student_dashboard.png)
+
+---
+
+## 👨‍💼 Admin Dashboard
+
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+---
+
+## ➕ Add Exam
+
+![Add Exam](screenshots/add_exam.png)
+
+---
+
+## 📋 View Exams
+
+![View Exams](screenshots/view_exam.png)
+
+---
+
+## 📝 Online Examination
+
+![Online Examination](screenshots/exam.png)
+
+---
+
+## 📊 Result Page
+
+![Result](screenshots/result.png)
+
 ## 👨‍💼 Admin Module
 
 - Admin Login
