@@ -1,99 +1,129 @@
-# Online Examination Portal
+# 🎓 Online Examination Portal
 
-A Flask-based Online Examination Portal that allows students to take online exams and enables administrators to create and manage exams efficiently.
+A Flask-based Online Examination Portal that enables administrators to create and manage online examinations while allowing students to securely attend exams and view their results.
 
 ---
 
-## Features
+# 📌 Project Overview
 
-### Student Module
+The Online Examination Portal is a web application developed using Flask and MySQL.
+
+It provides two separate modules:
+
+- 👨‍🎓 Student Module
+- 👨‍💼 Admin Module
+
+The system allows administrators to create exams, add questions, manage students, and view results.
+
+Students can register, log in, attempt exams within the scheduled time, and view their scores.
+
+---
+
+# ✨ Features
+
+## 👨‍🎓 Student Module
 
 - Student Registration
 - Student Login
 - Forgot Password using Email OTP
 - View Available Exams
 - Attempt Online Exams
-- Automatic Timer
-- Auto Submit after Time Completion
-- View My Results
-- Profile Management
-
-### Admin Module
-
-- Admin Login
-- Add New Exams
-- Add Questions
-- Edit/Delete Exams
-- View Student Results
-- Exam Availability Based on Date & Time
-- Leaderboard
+- Automatic Exam Timer
+- Auto Submit After Time Completion
+- View Results
+- Student Profile
 
 ---
 
-## Technologies Used
+## 👨‍💼 Admin Module
+
+- Admin Login
+- Add Exams
+- View Exams
+- Edit Exams
+- Delete Exams
+- Add Questions
+- Edit Questions
+- Delete Questions
+- View Questions
+- View Student Results
+- Exam Scheduling (Date & Time)
+
+---
+
+# 🛠 Technologies Used
 
 - Python
 - Flask
 - MySQL
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Bootstrap 5
 - JavaScript
 
 ---
 
-## Project Structure
+# 📂 Project Structure
 
 ```
-OEP/
+Online-Examination-Portal
 │
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── templates/
-├── static/
-└── venv/
+├── .gitignore
+├── templates
+├── static
+└── screenshots
 ```
 
 ---
 
-## Installation
+# 🚀 Installation
 
-Clone the repository
+## Clone the Repository
 
-```
+```bash
 git clone https://github.com/klu2300032492/Online-Examination-Portal.git
 ```
 
-Install requirements
+## Go to Project Folder
 
+```bash
+cd Online-Examination-Portal
 ```
+
+## Install Dependencies
+
+```bash
 pip install -r requirements.txt
 ```
 
-Run the project
+## Run the Project
 
-```
+```bash
 python app.py
 ```
 
 ---
 
-## Future Enhancements
+# 🔮 Future Enhancements
 
 - Random Question Generation
+- AI-based Question Generator
 - Negative Marking
-- Certificate Generation
-- Online Proctoring
 - Performance Analytics
-- AI-Based Question Generation
+- Online Proctoring
+- Certificate Generation
 
 ---
 
-## Author
+# 👩‍💻 Author
 
 **Lalitha Mittapalli**
 
-B.Tech CSE Student
+B.Tech (Computer Science Engineering)
 
 Python | Flask | MySQL | Web Development
+
+---
