@@ -174,12 +174,13 @@ python app.py
 
 ---
 
-# 👩‍💻 Author
+# 👥 Team Members
 
-**Lalitha Mittapalli**
+- Koushik Pranav Thari
+- Lalitha Mittapalli
 
 B.Tech (Computer Science Engineering)
 
-Python | Flask | MySQL | Web Development
-
----
+### Roles
+- Lalitha Mittapalli – Frontend Development, Database Design, GitHub Integration
+- Koushik – Backend Development, UI Design, Testing & Feature Development
